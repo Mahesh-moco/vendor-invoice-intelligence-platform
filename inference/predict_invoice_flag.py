@@ -1,8 +1,8 @@
 import joblib
 import pandas as pd
 
-MODEL_PATH = r"C:\Users\chour\Desktop\numpy\ML_project_2.0\invoice_flagging\models\predict_flag_invoice.pkl"
-SCALER_PATH = r"C:\Users\chour\Desktop\numpy\ML_project_2.0\invoice_flagging\models\scaler.pkl"
+MODEL_PATH = r"C:\Users\chour\Desktop\numpy\"
+SCALER_PATH = r"C:\Users\chour\Desktop\numpy\"
 
 
 # Load the trained invoice flag prediction model.
