@@ -1,7 +1,7 @@
 import joblib
 import pandas as pd
 
-MODEL_PATH = r"C:\Users\chour\Desktop\numpy\ML_project_2.0\freight_cost_prediction\models\predict_freight_model.pkl"
+MODEL_PATH = r"C:\Users\chour\Desktop\numpy\"
 
 
 # Load the trained freight prediction model.
