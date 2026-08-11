@@ -86,7 +86,7 @@ ML_project_2.0/
 git clone https://github.com/Mahesh-moco/vendor-invoice-intelligence-platform.git
 cd vendor-invoice-intelligence-platform
 ```
-**2. Train and Save Best Fit Models:
+**2. Train and Save Best Fit Models:**
 ```bash
 python freight_cost_prediction/train.py
 python invoice_flagging/train.py
